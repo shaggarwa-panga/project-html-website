@@ -1,2 +1,2 @@
 FROM ubuntu/apache2
-ADD . /var/www/html/x
+ADD . /var/www/html/
